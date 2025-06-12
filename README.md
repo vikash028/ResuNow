@@ -14,5 +14,5 @@ ResuNow is a modern and user-friendly resume builder web application that allows
 
 - HTML
 - CSS
-- JavaScript
+- Vanilla JavaScript
 
